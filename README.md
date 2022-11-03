@@ -1,4 +1,4 @@
-👋 Hi, I’m @cavetorch
+👋 Hi, I’m Edward Mercado
 
 I’m interested in blockchain technology, web3 dApps. Currently participating in the ETHDenver Solidity Bootcamp powered by encode.club
 
